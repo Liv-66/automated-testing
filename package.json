@@ -1,0 +1,24 @@
+{
+  "name": "automated-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liv-66/automated-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liv-66/automated-testing/issues"
+  },
+  "homepage": "https://github.com/Liv-66/automated-testing#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
